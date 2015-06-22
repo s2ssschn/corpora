@@ -30,7 +30,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
  - Maximilian Kuske:
  - Christina Lang:
  - Stephan Lehmler: Alcohol Language Corpus - ALC
- - Sarah Schneider: HEMPEL
+ - Sarah Schneider: TIGER-Baumbank
  - Ursula Schultze: Deutscher Wortschatz
  - Julian Stawecki: Falko
  - Constanze Tress: KiezDeutsch-Korpus (KiDKo)
@@ -77,7 +77,7 @@ Eine annotierte Liste von modernen linguistischen Ressourcen
 
 ## Alcohol Language Corpus - ALC
 
-## HEMPEL
+## TIGER-Baumbank
 
 ## Deutscher Wortschatz
 
